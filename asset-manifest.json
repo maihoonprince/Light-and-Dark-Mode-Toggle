@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Light-and-Dark-Mode-Toggle/static/css/main.f7b4667f.css",
+    "main.js": "/Light-and-Dark-Mode-Toggle/static/js/main.c4cfc911.js",
+    "static/js/787.6919c7ae.chunk.js": "/Light-and-Dark-Mode-Toggle/static/js/787.6919c7ae.chunk.js",
+    "index.html": "/Light-and-Dark-Mode-Toggle/index.html",
+    "main.f7b4667f.css.map": "/Light-and-Dark-Mode-Toggle/static/css/main.f7b4667f.css.map",
+    "main.c4cfc911.js.map": "/Light-and-Dark-Mode-Toggle/static/js/main.c4cfc911.js.map",
+    "787.6919c7ae.chunk.js.map": "/Light-and-Dark-Mode-Toggle/static/js/787.6919c7ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7b4667f.css",
+    "static/js/main.c4cfc911.js"
+  ]
+}
